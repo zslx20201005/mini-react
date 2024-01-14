@@ -4,7 +4,7 @@
 3.通过学习，更加明白实践的重要性 :bowtie:
 
 # Day2 今日思考
-1.链表的处理（子、兄、叔三类）
-2.学到了新的API requestIdleCallback （不足：对API缺乏了解）
-3.通过fiber任务调度器解决渲染dom的卡顿问题
+1.链表的处理（子、兄、叔三类）  
+2.学到了新的API requestIdleCallback （不足：对API缺乏了解）  
+3.通过fiber任务调度器解决渲染dom的卡顿问题  
 
